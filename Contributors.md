@@ -1231,6 +1231,7 @@
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Frederik Franzen]
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
+- [Anmol Adhikari](https://github.com/quazaranmol)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Brandon Bentley](https://github.com/BBentleyDev)
 - [Meric Peddle](https://github.com/gjpeddle)
@@ -4181,5 +4182,6 @@
 - [melscoop](https://github.com/melscoop)
 - [SankalpBhatnagar](https://github.com/Doraemon23)
 - [ifeanyi chima](https://github.com/masterifeanyi)
+- [xubai2001](https://github.com/xubai2001)
 
 <!-- prettier-ignore-end -->
